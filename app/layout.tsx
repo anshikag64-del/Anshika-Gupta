@@ -4,7 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Anshika Gupta — Data Analyst & Builder',
-  description: 'Portfolio of Anshika Gupta, a data analyst turning messy data into clear decisions with Power BI, SQL, Python, and Excel.',
+  description: 'Portfolio of Anshika Gupta, Ahmedabad-based Data Analyst specializing in Power BI dashboards, SQL, Python, Pandas, NumPy, Advanced Excel, and BloomNest.ai.',
   generator: 'Next.js',
   icons: {
     icon: [
